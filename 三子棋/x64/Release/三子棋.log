@@ -1,0 +1,8 @@
+﻿  game1.c
+  game2.c
+  test.c
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  三子棋.vcxproj -> D:\Cdaima\private\三子棋\x64\Release\三子棋.exe
